@@ -8,4 +8,4 @@
 # Method_DTW    calculates Table 3 results for NN-DTW method.
 - Classification_Algorithm_DTW: Run NN-DTW
 - dtw: Obtain DTW result 
-# Data.zip      contains codes for obtaining training dataset and raw data.
+# Data.zip      contains raw data and codes for obtaining training data.
